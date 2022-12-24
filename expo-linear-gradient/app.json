@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "GuessNumber",
-    "slug": "GuessNumber",
+    "name": "expolineargradient",
+    "slug": "expo-template-blank",
     "version": "1.0.0",
-    "orientation": "default",
+    "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -14,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
